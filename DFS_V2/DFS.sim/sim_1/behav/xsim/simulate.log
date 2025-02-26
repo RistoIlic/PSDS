@@ -1,0 +1,16 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Note: DFS:USAO SAM U STACK_INIT STANJE
+Time: 425 ns  Iteration: 2  Process: /dfs_top_tb/dut/dfs/KOMBINACIONA_LOGIKA_IZLAZ  File: /home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs.vhd
+Note: STACK_TOP_REG=-1
+Time: 425 ns  Iteration: 2  Process: /dfs_top_tb/dut/dfs/KOMBINACIONA_LOGIKA_IZLAZ  File: /home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs.vhd
+Note: STACK_TOP_NEXT=-1
+Time: 425 ns  Iteration: 2  Process: /dfs_top_tb/dut/dfs/KOMBINACIONA_LOGIKA_IZLAZ  File: /home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs.vhd
+Note: DFS:USAO SAM U STACK_INIT STANJE
+Time: 425 ns  Iteration: 3  Process: /dfs_top_tb/dut/dfs/KOMBINACIONA_LOGIKA_IZLAZ  File: /home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs.vhd
+Note: STACK_TOP_REG=-1
+Time: 425 ns  Iteration: 3  Process: /dfs_top_tb/dut/dfs/KOMBINACIONA_LOGIKA_IZLAZ  File: /home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs.vhd
+Note: STACK_TOP_NEXT=0
+Time: 425 ns  Iteration: 3  Process: /dfs_top_tb/dut/dfs/KOMBINACIONA_LOGIKA_IZLAZ  File: /home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs.vhd
+FATAL_ERROR: Iteration limit 10000 is reached. Possible zero delay oscillation detected where simulation time can not advance. Please check your source code. Note that the iteration limit can be changed using switch -maxdeltaid.
+Time: 455 ns  Iteration: 10000

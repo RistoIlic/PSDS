@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'dfs'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs_top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'dfs_top'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sim_1/new/dfs_top_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'dfs_top_tb'

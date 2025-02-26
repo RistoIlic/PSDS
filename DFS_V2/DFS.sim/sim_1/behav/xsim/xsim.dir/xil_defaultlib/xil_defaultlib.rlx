@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sim_1/new/dfs_top_tb.vhd,1740582459,vhdl,,,,dfs_top_tb,,,,,,,,
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs.vhd,1740588880,vhdl,/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs_top.vhd,,,dfs,,,,,,,,
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs_top.vhd,1740578480,vhdl,/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sim_1/new/dfs_top_tb.vhd,,,dfs_top,,,,,,,,
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/mem_maze.vhd,1740412823,vhdl,/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs_top.vhd,,,mem_maze,,,,,,,,
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/mem_stackX_stackY.vhd,1740412835,vhdl,/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs_top.vhd,,,mem_stackx_stacky,,,,,,,,
