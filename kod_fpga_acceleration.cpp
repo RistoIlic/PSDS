@@ -37,7 +37,7 @@ void generateMaze() {
     char trenutnoX, trenutnoY, trenutniPravac;
     char novoX, novoY, slucajniPravac;
     char tempPravacX, tempPravacY; // Promenljive za privremeno čuvanje pravaca
-    unsigned int lfsr = 0xACE1u; // Inicijalna vrednost LFSR-a
+    unsigned int lfsr = 57005; // Inicijalna vrednost LFSR-a
     unsigned int bit;
 
     lpocetak: if (i < rows) goto lspoljasnje; else goto ldalje;
@@ -63,8 +63,9 @@ void generateMaze() {
     lprocesiraj:
     trenutnoX = stackX[stackTop];
     trenutnoY = stackY[stackTop];
-    stackTop--;
+         
 
+    stackTop--;
     trenutniPravac = 0;
 
     lmesanje: if (trenutniPravac < 4) {
