@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sim_1/new/dfs_tb.vhd,1743950301,vhdl,,,,dfs_tb,,,,,,,,
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sim_1/new/dfs_top_tb.vhd,1744029890,vhdl,,,,dfs_top_tb,,,,,,,,
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sim_1/new/maze_memory_tb.vhd,1743785565,vhdl,,,,maze_memory_tb,,,,,,,,
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sim_1/new/stack_memory_tb.vhd,1743947151,vhdl,,,,stack_memory_tb,,,,,,,,
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs.vhd,1744030136,vhdl,/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs_top.vhd,,,dfs,,,,,,,,
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs_top.vhd,1741798790,vhdl,/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sim_1/new/dfs_top_tb.vhd,,,dfs_top,,,,,,,,
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/mem_maze.vhd,1743949472,vhdl,/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs_top.vhd,,,mem_maze,,,,,,,,
+/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/mem_stackX_stackY.vhd,1743947216,vhdl,/home/vladimir/Desktop/DFS_PSDS/DFS/DFS.srcs/sources_1/new/dfs_top.vhd,,,mem_stackx_stacky,,,,,,,,
