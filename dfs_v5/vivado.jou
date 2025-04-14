@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Mon Apr 14 19:02:20 2025
+# Process ID: 5476
+# Current directory: C:/Users/Admin/Desktop/KONACAN PROJEKAT/dfs_v5
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22476 C:\Users\Admin\Desktop\KONACAN PROJEKAT\dfs_v5\dfs_v5.xpr
+# Log file: C:/Users/Admin/Desktop/KONACAN PROJEKAT/dfs_v5/vivado.log
+# Journal file: C:/Users/Admin/Desktop/KONACAN PROJEKAT/dfs_v5\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Admin/Desktop/KONACAN PROJEKAT/dfs_v5/dfs_v5.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source dfs_top_tb.tcl
+close_sim
+launch_simulation
+source dfs_top_tb.tcl
+close_sim

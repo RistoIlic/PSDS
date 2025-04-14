@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../dfs_v5.srcs/sources_1/new/dfs.vhd" \
+"../../../../dfs_v5.srcs/sources_1/new/mem_maze.vhd" \
+"../../../../dfs_v5.srcs/sources_1/new/mem_stackX_stackY.vhd" \
+"../../../../dfs_v5.srcs/sources_1/new/dfs_top.vhd" \
+"../../../../dfs_v5.srcs/sim_1/new/dfs_top_tb.vhd" \
+
+# Do not sort compile order
+nosort
